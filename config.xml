@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>NITT gets Started</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		THis is mah ferst arrp!
 	</description>
 
-	<author href="http://alunny.github.com"
+	<author href="http://awww.geertsen.be"
 		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+		Robby G
 	</author>
 
 	<gap:platforms>
